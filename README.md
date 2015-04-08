@@ -23,7 +23,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 
 * Keyguard_cloud ( Codeigniter ) <a href="https://github.com/valdiney/Keyguard_cloud" target="_blank" title="Visualize o projeto">( Link )</a> <i>Gerenciador de contas de FTP</i>
 * Passos ( PHP ) <a href="https://github.com/valdiney/passos" target="_blank" title="Visualize o projeto">( Link )</a> <i>Rede social para professores ( Descontinuado )</i>
-* Your-task-manager ( PHP ) <a href="https://github.com/valdiney/Your-task-manager" target="_blank" title="Visualize o projeto">( Link )</a>
+* Your-task-manager ( PHP ) <a href="https://github.com/valdiney/Your-task-manager" target="_blank" title="Visualize o projeto">( Link )</a> <i>Gerenciador de tarefas</i>
 *  PasswordGenerator ( PHP ) <a href="https://github.com/valdiney/PasswordGenerator" target="_blank" title="Visualize o projeto">( Link )</a>
 * TheUploadFiles ( PHP ) <a href="https://github.com/valdiney/TheUploadFiles" target="_blank" title="Visualize o projeto">( Link )</a>
 * App_tabuadinha ( JS ) <a href="https://github.com/valdiney/pesoIdeal_app" target="_blank" title="Visualize o projeto">( Link )</a>
