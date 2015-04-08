@@ -31,3 +31,5 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * PesoIdeal_app ( JS ) <a href="https://github.com/valdiney/JaineCalculos" target="_blank" title="Visualize o projeto">( Link )</a> </a> <i>IMC para Android</i>
 
 # Experiência profissional
+
+* Colégio Estadual Alfredo Magalhães
