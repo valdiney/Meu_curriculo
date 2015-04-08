@@ -30,3 +30,4 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * Semba_samba_code ( JS ) <a href="https://github.com/valdiney/semba_samba_code" target="_blank" title="Visualize o projeto">( Link ) </a> <i>Console JavaScript</i>
 * PesoIdeal_app ( JS ) <a href="https://github.com/valdiney/JaineCalculos" target="_blank" title="Visualize o projeto">( Link )</a> </a> <i>IMC para Android</i>
 
+# Experiência profissional
