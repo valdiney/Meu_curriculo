@@ -26,4 +26,5 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * Your-task-manager ( PHP ) <a href="https://github.com/valdiney/Your-task-manager" target="_blank" title="Visualize o projeto">( Link )</a>
 *  PasswordGenerator ( PHP ) <a href="https://github.com/valdiney/PasswordGenerator" target="_blank" title="Visualize o projeto">( Link )</a>
 * TheUploadFiles ( PHP ) <a href="https://github.com/valdiney/TheUploadFiles" target="_blank" title="Visualize o projeto">( Link )</a>
+* App_tabuadinha ( JS ) <a href="https://github.com/valdiney/pesoIdeal_app" target="_blank" title="Visualize o projeto">( Link )</a>
 
