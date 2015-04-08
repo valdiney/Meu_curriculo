@@ -45,3 +45,10 @@ Manutenção nos equipamentos de informática (suporte)
 <i>
 Atividade: Instrutor de Informática e de Manutenção em Microcomputador (aos sábados)
 </i>
+
+* **CEPEQ – Centro de qualificação profissional** <br>
+<i>
+Atividade: Instrutor de informática básica e instrutor de manutenção
+em microcomputadores.
+</i>
+
