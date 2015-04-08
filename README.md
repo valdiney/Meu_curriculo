@@ -43,5 +43,5 @@ Manutenção nos equipamentos de informática (suporte)
 
 * **Programa Escola Aberta** <br>
 <i>
-Atividade: Instrutor de Manutenção em Microcomputador (aos sábados)
+Atividade: Instrutor de Informática e de Manutenção em Microcomputador (aos sábados)
 </i>
