@@ -52,3 +52,10 @@ Atividade: Instrutor de informática básica e instrutor de manutenção
 em microcomputadores.
 </i>
 
+* **Novas soluções criativas** <br>
+<i>
+Atividade: Instrutor de web design. programação web com html5, css3, javascript,
+jquery, php.
+</i>
+
+
