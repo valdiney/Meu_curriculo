@@ -28,4 +28,5 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * TheUploadFiles ( PHP ) <a href="https://github.com/valdiney/TheUploadFiles" target="_blank" title="Visualize o projeto">( Link )</a>
 * App_tabuadinha ( JS ) <a href="https://github.com/valdiney/pesoIdeal_app" target="_blank" title="Visualize o projeto">( Link )</a>
 * Semba_samba_code ( JS ) <a href="https://github.com/valdiney/semba_samba_code" target="_blank" title="Visualize o projeto">( Link )</a>
+* PesoIdeal_app ( JS ) <a href="https://github.com/valdiney/JaineCalculos" target="_blank" title="Visualize o projeto">( Link )</a>
 
