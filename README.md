@@ -58,4 +58,10 @@ Atividade: Instrutor de web design. programação web com html5, css3, javascrip
 jquery, php.
 </i>
 
+* **Oncedev – software do jeito certo** <br>
+<i>
+Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
+</i>
+
+
 
