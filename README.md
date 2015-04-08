@@ -68,11 +68,22 @@ Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
 Atividade: Programação de sistemas web (front e back) na linguagem PHP…
 </i>
 
-# ESCOLARIDADE
+# Escolaridade
 <i>
 Analise e Desenvolvimento de Sistemas (Incompleto)
 Universidade Católica de Salvador
 </i>
+
+# Qualificações
+
+* **SENAC-BA** <br>
+<i>Informática Básica, Manutenção em Microcomputador</i>
+
+* **REAL & DADOS** <br>
+<i>
+Web Design, Desenvolvedor Front End
+</i>
+
 
 
 
