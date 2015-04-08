@@ -19,7 +19,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * Ilustração 2D: <a href="https://www.youtube.com/watch?v=-f3WILDX1zk" target="_blank" title="Visualize o video no Youtube">( Youtube )</a>
 
 
-## Projetos
+## Projetos (Open Sources)
 
 * Keyguard_cloud ( Codeigniter ) <a href="https://github.com/valdiney/Keyguard_cloud" target="_blank" title="Visualize o projeto">( Link )</a>
 * Passos ( PHP ) <a href="https://github.com/valdiney/passos" target="_blank" title="Visualize o projeto">( Link )</a>
