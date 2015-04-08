@@ -17,3 +17,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * Sistema de controle de versão (git)
 * Photoshop
 * Ilustração 2D: <a href="https://www.youtube.com/watch?v=-f3WILDX1zk" target="_blank" title="Visualize o video no Youtube">( Youtube )</a>
+* 
+
+## Projetos
+
