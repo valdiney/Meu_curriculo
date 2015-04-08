@@ -68,6 +68,11 @@ Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
 Atividade: Programação de sistemas web (front e back) na linguagem PHP…
 </i>
 
+# ESCOLARIDADE
+<i>
+Analise e Desenvolvimento de Sistemas (Incompleto)
+Universidade Católica de Salvador
+</i>
 
 
 
