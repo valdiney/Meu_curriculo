@@ -5,6 +5,6 @@
 Local: Salvador - BA | Idade: 26 anos
 
 <p>
-Sou estudante de desenvolvimento web há dois anos, programar além de ter se transformado em uma profissão, continua sendo um dos meus mais preferidos hobbys, sendo que alguns deles são: “desenhar, escrever, ensinar e curtir a família”. 
+Sou estudante de desenvolvimento web há dois anos, programar além de ter se transformado em uma profissão, continua sendo um dos meus mais preferidos hobbys, sendo que alguns deles são: <i>“desenhar, escrever, ensinar e curtir a família”</i>. 
 Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado no lado do back-end com a linguagem php, aonde com a mesma eu venho desenvolvendo minhas habilidades que estão sendo empregadas no meu dia a dia. 
 </p>
