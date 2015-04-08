@@ -26,7 +26,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * Your-task-manager ( PHP ) <a href="https://github.com/valdiney/Your-task-manager" target="_blank" title="Visualize o projeto">( Link )</a> <i>Gerenciador de tarefas</i>
 *  PasswordGenerator ( PHP ) <a href="https://github.com/valdiney/PasswordGenerator" target="_blank" title="Visualize o projeto">( Link )</a> <i>Class para gerar senhas</i>
 * TheUploadFiles ( PHP ) <a href="https://github.com/valdiney/TheUploadFiles" target="_blank" title="Visualize o projeto">( Link )</a> <i>Class para fazer upload de arquivos</i>
-* App_tabuadinha ( JS ) <a href="https://github.com/valdiney/pesoIdeal_app" target="_blank" title="Visualize o projeto">( Link )</a>
-* Semba_samba_code ( JS ) <a href="https://github.com/valdiney/semba_samba_code" target="_blank" title="Visualize o projeto">( Link )</a>
+* App_tabuadinha ( JS ) <a href="https://github.com/valdiney/pesoIdeal_app" target="_blank" title="Visualize o projeto">( Link )</a> <i>Tabuada para android - phonegap</i>
+* Semba_samba_code ( JS ) <a href="https://github.com/valdiney/semba_samba_code" target="_blank" title="Visualize o projeto">( Link )</a> <i>Console JavaScript</i>
 * PesoIdeal_app ( JS ) <a href="https://github.com/valdiney/JaineCalculos" target="_blank" title="Visualize o projeto">( Link )</a>
 
