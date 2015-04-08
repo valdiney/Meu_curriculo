@@ -13,5 +13,5 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 
 * PHP (1 ano)
 * Javascript (1 ano)
-* HTML e CSS (2 anos)
+* HTML5 e CSS3 (2 anos)
 * Sistemas de controle de versão (git)
