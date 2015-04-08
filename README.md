@@ -16,3 +16,4 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 * HTML5 e CSS3 (2 anos)
 * Sistema de controle de versão (git)
 * Photoshop
+* Ilustração 2D forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal") 
