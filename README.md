@@ -32,7 +32,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 
 # Experiência profissional
 
-* Colégio Estadual Alfredo Magalhães <br>
+* **Colégio Estadual Alfredo Magalhães** 
 <i>
 Cargo: Instrutor de Informática e Suporte Técnico
 Período: Março/2010 à Dezembro/2011.
