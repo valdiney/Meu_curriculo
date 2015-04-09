@@ -12,7 +12,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 ## Conhecimentos
 
 * PHP (1 ano)
-* SQL (1 ano)
+* SQL e MySql (1 ano)
 * Javascript e jQuery (1 ano)
 * HTML5 e CSS3 (2 anos)
 * Sistema de controle de versão (git)
