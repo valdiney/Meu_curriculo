@@ -1,6 +1,6 @@
 # Valdinei França D.S ( Currículo )
 
-<img src="https://avatars1.githubusercontent.com/u/3947490?v=3&s=80"/>
+<img src="https://raw.githubusercontent.com/valdiney/Meu_curriculo/master/perfil/perfil.jpg"/>
 
 Local: Salvador - BA | Idade: 26 anos
 
