@@ -77,11 +77,6 @@ Analise e Desenvolvimento de Sistemas (Incompleto)
 Universidade Católica de Salvador
 </i>
 
-<i>
-Sistemas para Internet (1ª semestre)
-Unifacs
-</i>
-
 # Qualificações
 
 * **SENAC-BA** <br>
