@@ -23,7 +23,7 @@ Gosto tanto do front-end quanto do back-end, porém atualmente estou mais focado
 
 ## Projetos (Open Sources)
 
-* Ofir ( PHP ) <a href="https://github.com/valdiney/Ofir_Framework-0.1" title="Visualize o projeto">( Link )</a> <i>Mini-framework</i>
+* Ofir ( PHP ) <a href="https://github.com/valdiney/Ofir_Framework-0.1" target="_blank" title="Visualize o projeto">( Link )</a> <i>Mini-framework</i>
 * Keyguard_cloud ( Codeigniter ) <a href="https://github.com/valdiney/Keyguard_cloud" target="_blank" title="Visualize o projeto">( Link )</a> <i>Gerenciador de contas de FTP</i>
 * Passos ( PHP ) <a href="https://github.com/valdiney/passos" target="_blank" title="Visualize o projeto">( Link )</a> <i>Rede social para professores ( Descontinuado )</i>
 * Your-task-manager ( PHP ) <a href="https://github.com/valdiney/Your-task-manager" target="_blank" title="Visualize o projeto">( Link )</a> <i>Gerenciador de tarefas</i>
