@@ -5,7 +5,7 @@
 Local: Salvador - BA | Idade: 26 anos
 
 <p>
-Desenvolver web com dois anos de experiências nas ferramentas, html5, css3, JavaScript, jQuery, PHP e Mysql.
+Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, fissurado em Neuroaprendizagem e de como ajudar as pessoas principalmente por meio da educação.
 </p>
 
 ## Conhecimentos
