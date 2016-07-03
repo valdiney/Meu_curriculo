@@ -17,7 +17,6 @@ Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, fissurado 
 * Sistema de controle de versão (git)
 * Photoshop
 * Ilustração 2D: <a href="https://www.youtube.com/watch?v=-f3WILDX1zk" target="_blank" title="Visualize o video no Youtube">( Youtube )</a>
-* Atualmente estudando **Laravel**  (framework PHP)
 
 
 ## Projetos (Open Sources)
