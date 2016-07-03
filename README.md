@@ -35,8 +35,8 @@ Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, fissurado 
 
 * **Colégio Estadual Alfredo Magalhães** <br>
 <i>
-Cargo: Instrutor de Informática e Suporte Técnico
-Período: Março/2010 à Dezembro/2011.
+Cargo: Instrutor de Informática e Suporte Técnico.
+Período: 2 anos.
 Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
 palestras, desenhos ilustrativos e
 Manutenção nos equipamentos de informática (suporte)
@@ -44,19 +44,19 @@ Manutenção nos equipamentos de informática (suporte)
 
 * **Programa Escola Aberta** <br>
 <i>
-Atividade: Instrutor de Informática e de Manutenção em Microcomputador (aos sábados)
+Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
 </i>
 
 * **CEPEQ – Centro de qualificação profissional** <br>
 <i>
 Atividade: Instrutor de informática básica e instrutor de manutenção
-em microcomputadores.
+em microcomputadores. Período: 6 meses.
 </i>
 
 * **Novas soluções criativas** <br>
 <i>
-Atividade: Instrutor de web design. programação web com html5, css3, javascript,
-jquery, php.
+Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
+jquery, php. Período: 2 messes - (Curso rápido).
 </i>
 
 * **Oncedev – software do jeito certo** <br>
@@ -66,13 +66,16 @@ Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
 
 * **Maxcred Empréstimo consignado** <br>
 <i>
-Atividade: Programação de sistemas web (front e back) na linguagem PHP…
+Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
 </i>
 
 # Escolaridade
 <i>
 Analise e Desenvolvimento de Sistemas (Incompleto)
 Universidade Católica de Salvador
+
+Analise e Desenvolvimento de Sistemas (Cursando)
+Estácio de Sá.
 </i>
 
 # Qualificações
@@ -84,7 +87,3 @@ Universidade Católica de Salvador
 <i>
 Web Design, Desenvolvedor Front End
 </i>
-
-
-
-
