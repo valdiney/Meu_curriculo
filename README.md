@@ -14,10 +14,10 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 
 ## Conhecimentos
 
-* PHP (1 ano)
-* SQL e MySql (1 ano)
-* Javascript e jQuery (1 ano)
-* HTML5 e CSS3 (2 anos)
+* PHP
+* SQL e MySql
+* Javascript e jQuery
+* HTML5 e CSS3
 * Sistema de controle de versão (git)
 * Photoshop
 * Ilustração 2D: <a href="https://www.youtube.com/watch?v=-f3WILDX1zk" target="_blank" title="Visualize o video no Youtube">( Youtube )</a>
