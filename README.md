@@ -76,11 +76,7 @@ Estácio de Sá.
 <i>Informática Básica, Manutenção em Microcomputador</i>
 
 * **REAL & DADOS** <br>
-<i>
-Web Design, Desenvolvedor Front End
-</i>
-<br>
+<i>Web Design, Desenvolvedor Front End</i>
+
 * **ESCOLA DO ARDUINO** <br>
-<i>
- Smart house - Automação residencial
-</i>
+<i>Smart house - Automação residencial</i>
