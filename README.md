@@ -79,7 +79,7 @@ Estácio de Sá.
 <i>
 Web Design, Desenvolvedor Front End
 </i>
-
+<br>
 * **ESCOLA DO ARDUINO** <br>
 <i>
  Smart house - Automação residencial
