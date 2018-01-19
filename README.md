@@ -16,7 +16,7 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 
 * PHP
 * Python
-* SQL e MySql
+* MySql
 * Javascript e jQuery
 * HTML5 e CSS3
 * Sistema de controle de versão (git)
