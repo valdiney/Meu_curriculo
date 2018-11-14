@@ -33,17 +33,17 @@ Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
 palestras, desenhos ilustrativos e
 Manutenção nos equipamentos de informática (suporte)
 </i>
-
+--------------------------------------------------------------------------------------------
 * **Programa Escola Aberta** <br>
 <i>
 Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
-</i> <br>
+</i> 
 
 * **CEPEQ – Centro de qualificação profissional** <br>
 <i>
 Atividade: Instrutor de informática básica e instrutor de manutenção
 em microcomputadores. Período: 6 meses.
-</i> <br>
+</i>
 
 * **Novas soluções criativas** <br>
 <i>
