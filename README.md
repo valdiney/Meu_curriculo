@@ -60,7 +60,7 @@ Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
 <i>
 Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
 </i>
-<br>
+
 * **Xlogic** <br>
 <i>
 Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
