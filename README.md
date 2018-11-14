@@ -27,9 +27,7 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 
 * **Colégio Estadual Alfredo Magalhães** <br>
   <i>
-  Cargo: Instrutor de Informática e Suporte Técnico.
-  Período: 2 anos.
-  Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
+  Atividades: Instrutor de Informática e Suporte Técnico. Ensino e monitoramento em sala de aula, edição de vídeos para
   palestras, desenhos ilustrativos e
   Manutenção nos equipamentos de informática (suporte)
   </i>
