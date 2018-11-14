@@ -37,14 +37,14 @@ Manutenção nos equipamentos de informática (suporte)
 * **Programa Escola Aberta** <br>
 <i>
 Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
-</i>
+</i> <br>
 
 * **CEPEQ – Centro de qualificação profissional** <br>
 <i>
 Atividade: Instrutor de informática básica e instrutor de manutenção
 em microcomputadores. Período: 6 meses.
-</i>
-<br>
+</i> <br>
+
 * **Novas soluções criativas** <br>
 <i>
 Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
