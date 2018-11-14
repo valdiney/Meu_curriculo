@@ -33,7 +33,7 @@ Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
 palestras, desenhos ilustrativos e
 Manutenção nos equipamentos de informática (suporte)
 </i>
--------------------------------------------------------------------------------------------- <br>
+
 * **Programa Escola Aberta** <br>
 <i>
 Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
