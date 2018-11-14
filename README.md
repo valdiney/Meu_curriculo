@@ -44,7 +44,7 @@ Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Perí
 Atividade: Instrutor de informática básica e instrutor de manutenção
 em microcomputadores. Período: 6 meses.
 </i>
-
+<br>
 * **Novas soluções criativas** <br>
 <i>
 Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
