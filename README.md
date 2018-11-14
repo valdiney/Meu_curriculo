@@ -26,45 +26,58 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 # Experiência profissional
 
 * **Colégio Estadual Alfredo Magalhães** <br>
-<i>
-Cargo: Instrutor de Informática e Suporte Técnico.
-Período: 2 anos.
-Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
-palestras, desenhos ilustrativos e
-Manutenção nos equipamentos de informática (suporte)
-</i>
+  <i>
+  Cargo: Instrutor de Informática e Suporte Técnico.
+  Período: 2 anos.
+  Atividades: Ensino e monitoramento em sala de aula, edição de vídeos para
+  palestras, desenhos ilustrativos e
+  Manutenção nos equipamentos de informática (suporte)
+  </i>
+
+
 
 * **Programa Escola Aberta** <br>
-<i>
-Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
-</i> 
+  <i>
+  Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
+  </i> 
+
+
 
 * **CEPEQ – Centro de qualificação profissional** <br>
-<i>
-Atividade: Instrutor de informática básica e instrutor de manutenção
-em microcomputadores. Período: 6 meses.
-</i>
+  <i>
+  Atividade: Instrutor de informática básica e instrutor de manutenção
+  em microcomputadores. Período: 6 meses.
+  </i>
+
+
 
 * **Novas soluções criativas** <br>
-<i>
-Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
-jquery, php. Período: 2 messes - (Curso rápido).
-</i>
+  <i>
+  Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
+  jquery, php. Período: 2 messes - (Curso rápido).
+  </i>
+
+
 
 * **Oncedev – software do jeito certo** <br>
-<i>
-Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
-</i>
+  <i>
+  Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
+  </i>
+
+
 
 * **Maxcred Empréstimo consignado** <br>
-<i>
-Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
-</i>
+  <i>
+  Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
+  </i>
+
+
 
 * **Xlogic** <br>
-<i>
-Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
-</i>
+  <i>
+  Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
+  </i>
+
 
 # Escolaridade
 <i>
