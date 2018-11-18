@@ -79,9 +79,6 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 
 # Escolaridade
 <i>
-Analise e Desenvolvimento de Sistemas (Incompleto)
-Universidade Católica de Salvador
-
 Analise e Desenvolvimento de Sistemas (Cursando)
 Estácio de Sá.
 </i>
