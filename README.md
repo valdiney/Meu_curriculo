@@ -5,7 +5,7 @@
 Local: Salvador - BA | Idade: 29 anos
 
 <p>
-Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, fissurado em Neuroaprendizagem e de como ajudar as pessoas principalmente por meio da educação.
+Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, fissurado em Neuroaprendizagem e em como ajudar as pessoas por meio da educação.
 </p>
 
 <p>
