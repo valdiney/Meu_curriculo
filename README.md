@@ -101,5 +101,8 @@ Estácio de Sá.
 <i>Smart house - Automação residencial</i>
 
 # Eventos
-<i>Arduino Day</i>
+<i>Arduino Day Salvador</i><br>
 <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/30440897_1600105570112012_1541506965610430464_n.jpg?_nc_cat=107&_nc_ht=scontent-gig2-1.xx&oh=ac9934049e42d26334a5b196eba6e3ee&oe=5C8E8261" width="600"/>
+
+<i>Palestra: Iot e suas Camadas</i><br>
+<img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/22687519_1431089963680241_8460746996654250632_n.jpg?_nc_cat=110&_nc_ht=scontent-gig2-1.xx&oh=f0e259cf04d8fe0f90554a73af47935a&oe=5CD8FC5C" width="600"/>
