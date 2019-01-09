@@ -109,3 +109,6 @@ Estácio de Sá.
 
 <i>Palestra: Sistemas Web para Iot (IHACLab-i UFBA)</i><br><br>
 <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/30412427_1599293363526566_6061371432267415552_n.jpg?_nc_cat=110&_nc_ht=scontent-gig2-1.xx&oh=fe9d726899d63e3d9dcec6f0ed34472e&oe=5CC2DDFB" width="600"/>
+
+<i>Hackathon: Soluções de Iot para fruticultura (Juàzeiro-BA)</i><br><br>
+<img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/30412427_1599293363526566_6061371432267415552_n.jpg?_nc_cat=110&_nc_ht=scontent-gig2-1.xx&oh=fe9d726899d63e3d9dcec6f0ed34472e&oe=5CC2DDFB" width="600"/>
