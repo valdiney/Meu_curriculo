@@ -14,7 +14,7 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
 
 ## Conhecimentos
 
-* PHP
+* PHP, Laravel, Codeigniter
 * Python
 * MySql, Sqlite
 * Javascript e jQuery
