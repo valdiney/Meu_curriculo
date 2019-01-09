@@ -99,3 +99,6 @@ Estácio de Sá.
 
 * **ESCOLA DO ARDUINO** <br>
 <i>Smart house - Automação residencial</i>
+
+# Eventos
+<img src="https://www.facebook.com/photo.php?fbid=1600105563445346&set=t.100003377538049&type=3&theater"/>
