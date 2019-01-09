@@ -75,7 +75,9 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
   <i>
   Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
   </i>
-
+  
+* **Robotec – Escola de Tecnologia** <br>
+<i>Atividade: Instrutor de Sistemas para Internet, Internet das coisas e introdução a Computação.</i>
 
 # Escolaridade
 <i>
