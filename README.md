@@ -56,25 +56,23 @@ Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
   </i>
 
 
-
 * **Oncedev – software do jeito certo** <br>
   <i>
   Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
   </i>
-
-
 
 * **Maxcred Empréstimo consignado** <br>
   <i>
   Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
   </i>
 
-
-
 * **Xlogic** <br>
   <i>
   Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
   </i>
+  
+* **Colmeia Automação Industrial** <br>
+<i>Atividade: Desenvolvimento Python para embarcado e desenvolvimento Web com PHP...</i>
   
 * **Escola do Arduino** <br>
 <i>Atividade: Instrutor de Sistemas para Internet e comunicação para Internet das
