@@ -83,7 +83,7 @@ Coisas.</i>
 
 # Escolaridade
 <i>
-Analise e Desenvolvimento de Sistemas (Cursando)
+Analise e Desenvolvimento de Sistemas
 Estácio de Sá.
 </i>
 
