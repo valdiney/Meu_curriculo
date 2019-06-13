@@ -109,4 +109,4 @@ Estácio de Sá.
 <img src="https://github.com/valdiney/Meu_curriculo/blob/master/img/sistema_web_para_iot.jpg?raw=true" width="600"/>
 
 <i>Hackathon: Soluções de Iot para fruticultura (Juàzeiro-BA)</i><br><br>
-<img src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-9/48367655_1918149768307589_2348360565514043392_n.jpg?_nc_cat=101&_nc_ht=scontent-gig2-1.xx&oh=53aa2a8eeec617c798535fca3a4eb30a&oe=5CC663B2" width="600"/>
+<img src="https://github.com/valdiney/Meu_curriculo/blob/master/img/juazeiro.jpg?raw=true" width="600"/>
