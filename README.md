@@ -2,7 +2,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/3947490?v=3&u=ad7d473034d7f9ced288b13b1755a9df442eee8d&s=400" width="200"/>
 
-Local: Salvador - BA | Idade: 29 anos
+Local: Salvador - BA | Idade: 30 anos
 
 <p>
 Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, professor de Capoeira, curioso em Neuroaprendizagem, fotografo amador nas horas vagas e um monte de outras coisas interessantes! 
