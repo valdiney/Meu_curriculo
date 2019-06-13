@@ -9,7 +9,7 @@ Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, professor 
 </p>
 
 <p>
-Atualmente, desenvolvedor web na (Xlogic Soluções em TI)
+Atualmente, desenvolvedor web (Freelancer)
 </p>
 
 ## Conhecimentos
