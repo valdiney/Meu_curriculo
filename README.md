@@ -9,7 +9,7 @@ Sou desenvolvedor web apaixonado pelo ato de tramitar o conhecimento, professor 
 </p>
 
 <p>
-Atualmente, desenvolvedor web (Freelancer)
+Atualmente, Analista de Sistemas na Secretária da Educação do Estado da Bahia
 </p>
 
 ## Conhecimentos
