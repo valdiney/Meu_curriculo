@@ -25,6 +25,16 @@ Atualmente, Analista de Sistemas na Secretária da Educação do Estado da Bahia
 
 # Experiência profissional
 
+* **Xlogic** <br>
+  <i>
+  Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
+  </i>
+  
+* **Xtexting** <br>
+  <i>
+  Atividade: Analista de Sistemas. Programação de sistemas web (front e back) na linguagem PHP. Período: 1 ano.
+  </i>
+
 * **Colégio Estadual Alfredo Magalhães** <br>
   <i>
   Atividades: Instrutor de Informática e Suporte Técnico. Ensino e monitoramento em sala de aula, edição de vídeos para
@@ -32,33 +42,10 @@ Atualmente, Analista de Sistemas na Secretária da Educação do Estado da Bahia
   Manutenção nos equipamentos de informática (suporte)
   </i>
 
-
-
-* **Programa Escola Aberta** <br>
-  <i>
-  Atividade: Instrutor de Informática e de Manutenção em Microcomputador. Período: 2 anos
-  </i> 
-
-
-
 * **CEPEQ – Centro de qualificação profissional** <br>
   <i>
   Atividade: Instrutor de informática básica e instrutor de manutenção
   em microcomputadores. Período: 6 meses.
-  </i>
-
-
-
-* **Novas soluções criativas** <br>
-  <i>
-  Atividade: Instrutor de web design. Programação web com html5, css3, javascript,
-  jquery, php. Período: 2 messes - (Curso rápido).
-  </i>
-
-
-* **Oncedev – software do jeito certo** <br>
-  <i>
-  Atividade: Estudos na Plataforma (ASP.NET(MVC C#)
   </i>
 
 * **Maxcred Empréstimo consignado** <br>
@@ -66,10 +53,6 @@ Atualmente, Analista de Sistemas na Secretária da Educação do Estado da Bahia
   Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 5 meses.
   </i>
 
-* **Xlogic** <br>
-  <i>
-  Atividade: Programação de sistemas web (front e back) na linguagem PHP. Período: 3 anos.
-  </i>
   
 * **Colmeia Automação Industrial** <br>
 <i>Atividade: Desenvolvimento Python para embarcado e desenvolvimento Web com PHP...</i>
